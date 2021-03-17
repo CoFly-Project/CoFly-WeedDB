@@ -36,9 +36,9 @@ Examples of the CoFly dataset.
     <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" =500x500 /></td>
     </tr>
   <tr class="center">
-    <td><img src="https://user-images.githubusercontent.com/77329407/107168936-5cb87b80-69c5-11eb-83ef-5e104d4db5f0.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111446873-87f55f80-8715-11eb-8a86-f99e2480c0f5.png" =500x500/></td>
-    <td><img src="https://user-images.githubusercontent.com/77329407/107168970-6cd05b00-69c5-11eb-9bf5-07bb069652dd.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111497629-ed634380-8749-11eb-99c3-578851ab6933.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111498933-189a6280-874b-11eb-83d1-561fa442f51a.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111497625-eccaad00-8749-11eb-843a-bd0d41352f39.png" =500x500 /></td>
   </tr>
   <tr align="center">
     <td>(a) RGB images.</td>
