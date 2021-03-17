@@ -47,7 +47,7 @@ Examples of the CoFly dataset.
   </tr>
 </table>
 
- **Figure 1** (a) Samples of the CoFly dataset (b) the corresponding overlayed and (c)the annotated images (red = johson grass, yellow =  field bindweed, blue = 
+ **Figure 1** (a) Samples of the CoFly dataset (b) the corresponding overlayed and (c) annotated images (red = johson grass, yellow =  field bindweed, blue = 
 purslane and black = background).
 
 
