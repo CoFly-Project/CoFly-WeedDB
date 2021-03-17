@@ -31,14 +31,14 @@ and clear view of the weed instances.
 Examples of the CoFly dataset.
 <table class="center">
   <tr class="center">
-    <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" width="700" /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111495980-8abd7800-8748-11eb-9ad8-1a2d04fa19df.png" width="700"/></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" width="700" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111495980-8abd7800-8748-11eb-9ad8-1a2d04fa19df.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" =500x500 /></td>
     </tr>
   <tr class="center">
-    <td><img src="https://user-images.githubusercontent.com/77329407/107168936-5cb87b80-69c5-11eb-83ef-5e104d4db5f0.png" width="500" /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111446873-87f55f80-8715-11eb-8a86-f99e2480c0f5.png" width="500"/></td>
-    <td><img src="https://user-images.githubusercontent.com/77329407/107168970-6cd05b00-69c5-11eb-9bf5-07bb069652dd.png" width="500" /></td>
+    <td><img src="https://user-images.githubusercontent.com/77329407/107168936-5cb87b80-69c5-11eb-83ef-5e104d4db5f0.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111446873-87f55f80-8715-11eb-8a86-f99e2480c0f5.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/77329407/107168970-6cd05b00-69c5-11eb-9bf5-07bb069652dd.png" =500x500 /></td>
   </tr>
   <tr align="center">
     <td>(a) RGB images.</td>
