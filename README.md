@@ -33,12 +33,12 @@ Examples of the CoFly dataset.
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>    
     <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111495980-8abd7800-8748-11eb-9ad8-1a2d04fa19df.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111638770-535fd180-8803-11eb-8fe1-69c061d5ba39.png" =500x500/></td>
     </tr>
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111497629-ed634380-8749-11eb-99c3-578851ab6933.png" =500x500 /></td>
     <td><img src="https://user-images.githubusercontent.com/80778287/111497625-eccaad00-8749-11eb-843a-bd0d41352f39.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111498933-189a6280-874b-11eb-83d1-561fa442f51a.png" =500x500/></td>    
+    <td><img src="https://user-images.githubusercontent.com/80778287/111638796-5955b280-8803-11eb-9502-5aa58a071648.png" =500x500/></td>    
   </tr>
   <tr align="center">
     <td>(a) RGB</td>
