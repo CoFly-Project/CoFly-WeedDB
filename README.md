@@ -43,7 +43,7 @@ Examples of the CoFly dataset.
   <tr align="center">
     <td>(a) RGB</td>
     <td>(b) Annotated mask</td>
-    <td>(c) Overlay.</td>
+    <td>(c) Overlay</td>
   </tr>
 </table>
 
