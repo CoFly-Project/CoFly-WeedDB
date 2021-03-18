@@ -43,7 +43,7 @@ Examples of the CoFly dataset.
   <tr align="center">
     <td>(a) RGB images.</td>
     <td>(b) Overlayed images.</td>
-    <td>(b) Annotated images.</td>
+    <td>(b) Annotated masks.</td>
   </tr>
 </table>
 
