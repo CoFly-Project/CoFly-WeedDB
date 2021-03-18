@@ -33,7 +33,7 @@ Examples of the CoFly dataset.
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>    
     <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111640831-3b894d00-8805-11eb-9193-150e5b38b754.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111640797-35936c00-8805-11eb-9035-164af6d482ad.png" =500x500/></td>
     </tr>
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111497629-ed634380-8749-11eb-99c3-578851ab6933.png" =500x500 /></td>
