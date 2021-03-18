@@ -31,23 +31,23 @@ and clear view of the weed instances.
 Examples of the CoFly dataset.
 <table class="center">
   <tr class="center">
-    <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111495980-8abd7800-8748-11eb-9ad8-1a2d04fa19df.png" =500x500/></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>    
     <td><img src="https://user-images.githubusercontent.com/80778287/111494292-03233980-8747-11eb-9daa-380ec6364e9e.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111495980-8abd7800-8748-11eb-9ad8-1a2d04fa19df.png" =500x500/></td>
     </tr>
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111497629-ed634380-8749-11eb-99c3-578851ab6933.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80778287/111498933-189a6280-874b-11eb-83d1-561fa442f51a.png" =500x500/></td>
     <td><img src="https://user-images.githubusercontent.com/80778287/111497625-eccaad00-8749-11eb-843a-bd0d41352f39.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80778287/111498933-189a6280-874b-11eb-83d1-561fa442f51a.png" =500x500/></td>    
   </tr>
   <tr align="center">
-    <td>(a) RGB images.</td>
-    <td>(b) Overlayed images.</td>
-    <td>(c) Annotated images.</td>
+    <td>(a) RGB</td>
+    <td>(b) Annotated mask</td>
+    <td>(c) Overlay.</td>
   </tr>
 </table>
 
- **Figure 1** (a) Samples of the RGB images and (b) Corresponding overlayed and (c) Annotated images. **Red** color corresponds to _johson grass_, 
+ **Figure 1** Samples of the CoFly dataset: (a) RGB images, (b) annotated mask and (c) overlay. **Red** color corresponds to _johson grass_, 
 **yellow** to _field bindweed_, **blue** to _purslane_ and **black** is for _background_.
 
 
