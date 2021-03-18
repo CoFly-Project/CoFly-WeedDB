@@ -43,12 +43,12 @@ Examples of the CoFly dataset.
   <tr align="center">
     <td>(a) RGB images.</td>
     <td>(b) Overlayed images.</td>
-    <td>(b) Annotated masks.</td>
+    <td>(c) Annotated images.</td>
   </tr>
 </table>
 
- **Figure 1** (a) Samples of the CoFly dataset and (b) the corresponding overlayed and (c) annotated masks (red = johson grass, yellow =  field bindweed, blue = 
-purslane and black = background).
+ **Figure 1** (a) Samples of the CoFly dataset and (b) Corresponding overlayed and (c) Annotated images. Red color corresponds to johson grass, 
+yellow to field bindweed, blue to purslane and black is for background).
 
 
 
