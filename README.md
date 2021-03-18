@@ -47,7 +47,7 @@ Examples of the CoFly dataset.
   </tr>
 </table>
 
- **Figure 1** (a) Samples of the CoFly dataset and (b) Corresponding overlayed and (c) Annotated images. **Red** color corresponds to _johson grass_, 
+ **Figure 1** (a) Samples of the RGB images and (b) Corresponding overlayed and (c) Annotated images. **Red** color corresponds to _johson grass_, 
 **yellow** to _field bindweed_, **blue** to _purslane_ and **black** is for _background_.
 
 
