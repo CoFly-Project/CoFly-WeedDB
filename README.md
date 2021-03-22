@@ -54,8 +54,8 @@ Examples of the CoFly dataset.
 
 ## Data Management
 The folder [**images**](https://github.com/CoFly-project/CoFly-dataset/tree/main/images) contains the 1280x720 RGB images while the folder 
-[**labels**](https://github.com/CoFly-project/CoFly-dataset/tree/main/labels) contains the corresponding annotated masks. The folder 
-[**overlayed**](https://github.com/CoFly-project/CoFly-dataset/tree/main/overlays) contains the overlayed images of the dataset.
+[**labels**](https://github.com/CoFly-project/CoFly-dataset/tree/main/labels) contains the corresponding annotated masks. <!--The folder 
+[**overlayed**](https://github.com/CoFly-project/CoFly-dataset/tree/main/overlays) contains the overlayed images of the dataset.-->
 
 Image filenames are defined with an ID number, such as:
 
