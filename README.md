@@ -37,13 +37,13 @@ Examples of the CoFly dataset.
     </tr>
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80779522/113018589-6078ab00-9189-11eb-8d87-69aa54a140b5.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80779522/113018602-62db0500-9189-11eb-91b8-63f624bd9bba.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80779522/113018613-64a4c880-9189-11eb-82a8-8fb98c6fc374.png" =500x500/></td>    
+    <td><img src="https://user-images.githubusercontent.com/80779522/113018613-64a4c880-9189-11eb-82a8-8fb98c6fc374.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80779522/113018602-62db0500-9189-11eb-91b8-63f624bd9bba.png" =500x500/></td>    
   </tr>
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80779522/113018865-a59cdd00-9189-11eb-95d6-5fa9c0c614b5.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80779522/113018873-a766a080-9189-11eb-8cb0-1df04f8686db.png" =500x500 /></td>
-    <td><img src="https://user-images.githubusercontent.com/80779522/113018882-a9306400-9189-11eb-98de-b09aa9897332.png" =500x500/></td>    
+    <td><img src="https://user-images.githubusercontent.com/80779522/113018882-a9306400-9189-11eb-98de-b09aa9897332.png" =500x500 /></td>
+    <td><img src="https://user-images.githubusercontent.com/80779522/113018873-a766a080-9189-11eb-8cb0-1df04f8686db.png" =500x500/></td>    
   </tr>
   <!--<tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111497629-ed634380-8749-11eb-99c3-578851ab6933.png" =500x500 /></td>
