@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/77329407/105342573-3040e900-5be9-11eb-92df-7c09392b1e0c.png" width="300" />
 
 ## Dataset Description
-CoFly dataset (~436MB) consists of 201 aerial images, capturing different weed types that interfere among the row crop (cotton),
+CoFly-WeedDB dataset (~436MB) consists of 201 aerial images, capturing different weed types that interfere among the row crop (cotton),
 as well as their corresponding annotated images. The annotation process of the weed instances was conducted by agronomists, using 
 the [LabelMe](https://github.com/wkentaro/labelme) annotation tool, indicating three different types of weeds: 
 
@@ -28,7 +28,7 @@ and clear view of the weed instances.
 
 
 ## Visualizations
-Examples of the CoFly dataset.
+Examples of the CoFly-WeedDB dataset.
 <table class="center">
   <tr class="center">
     <td><img src="https://user-images.githubusercontent.com/80778287/111494266-ff8fb280-8746-11eb-9cb2-9c29fdbed52c.png" =500x500 /></td>    
