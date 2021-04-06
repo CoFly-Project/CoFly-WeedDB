@@ -57,7 +57,7 @@ Examples of the CoFly-WeedDB dataset.
   </tr>
 </table>
 
- **Figure 1** Samples of the CoFly dataset: (a) RGB image, (b) annotated mask and (c) overlay. **Red** color corresponds to _johnson grass_, 
+ **Figure 1** Samples of the CoFly-WeedDB dataset: (a) RGB image, (b) annotated mask and (c) overlay. **Red** color corresponds to _johnson grass_, 
 **yellow** to _field bindweed_, **blue** to _purslane_ and **black** is for _background_.
 
 
