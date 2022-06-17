@@ -18,7 +18,9 @@ In specific:
 3. __Blue__-Purslane
 4. __Black__-Background
 
-
+## Download
+CoFly-WeedDB dataset can be downloaded [here]([https://www.google.com](https://drive.google.com/drive/folders/1iJUxuHujAbg3vyOpFyeCmudXzA60E5Hs?usp=sharing)).
+    
 ## Data Acquisition
 This dataset was created using an RGB camera (1-inch 20-megapixel CMOS sensor) mounted on a DJI Phantom 4 Pro UAV. The RGB images were 
 collected while the UAV was performing a coverage mission over the field's area. During the designed mission, the camera angle was adjusted
@@ -62,8 +64,8 @@ Examples of the CoFly-WeedDB dataset.
 
 
 ## Data Management
-The folder **images** contains the 1280x720 RGB images while the folder 
-**labels** contains the corresponding annotated masks. 
+The folder [**images**](https://github.com/CoFly-project/CoFly-dataset/tree/main/images) contains the 1280x720 RGB images while the folder 
+[**labels**](https://github.com/CoFly-project/CoFly-dataset/tree/main/labels) contains the corresponding annotated masks. 
 
 Image filenames are defined with an ID number, such as:
 
