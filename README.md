@@ -64,7 +64,10 @@ Examples of the CoFly-WeedDB dataset.
 
 
 ## Files Description
-The folder images contains the 1280x720 RGB images while the folder labels contains the corresponding annotated masks. 
+'images' folder: contains the 1280x720 RGB images. Total images are 366 but 201 are annotated since the rest do not enclose any weed instances.  
+'labels' folder: contains the corresponding annotated masks of 201 RGB images. 
+'labels_1d' folder: contains the ground truth masks in a classification format. Pixel values correspond to classes, 0 is for background.
+'overlay' folder: contains an overaly of original RGB images and corresponding annotation masks.
 
 Image filenames are defined with an ID number, such as:
 
