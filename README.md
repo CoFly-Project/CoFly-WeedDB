@@ -19,7 +19,7 @@ In specific:
 4. __Black__-Background
 
 ## Download
-CoFly-WeedDB dataset can be downloaded [here](https://drive.google.com/drive/folders/1iJUxuHujAbg3vyOpFyeCmudXzA60E5Hs?usp=sharing).
+CoFly-WeedDB dataset can be downloaded [here](https://drive.google.com/file/d/1GDoqX53VoYJsDZg5TM_HVLJZ24SFY4zP/view?usp=sharing).
     
 ## Data Acquisition
 This dataset was created using an RGB camera (1-inch 20-megapixel CMOS sensor) mounted on a DJI Phantom 4 Pro UAV. The RGB images were 
