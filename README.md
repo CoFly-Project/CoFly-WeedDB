@@ -63,9 +63,8 @@ Examples of the CoFly-WeedDB dataset.
 
 
 
-## Data Management
-The folder [**images**](https://github.com/CoFly-project/CoFly-dataset/tree/main/images) contains the 1280x720 RGB images while the folder 
-[**labels**](https://github.com/CoFly-project/CoFly-dataset/tree/main/labels) contains the corresponding annotated masks. 
+## Files Description
+The folder images contains the 1280x720 RGB images while the folder labels contains the corresponding annotated masks. 
 
 Image filenames are defined with an ID number, such as:
 
