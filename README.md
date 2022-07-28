@@ -75,6 +75,10 @@ Image filenames are defined with an ID number, such as:
 ID_00048.png
 ```
 
+## Mask2Box
+A code snippet titled mask2box.py is provided to convert the segmentation masks to bounding boxes for object detection oriented tasks.
+
+
 ## Citing the dataset
 If you use this dataset, please cite the following publication:
 
