@@ -82,7 +82,7 @@ A code snippet titled mask2box.py is provided to convert the segmentation masks 
 ## Citing the dataset
 If you use this dataset, please cite the following publication:
 
-Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575.
+*Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575.*
   \[[Link](https://www.sciencedirect.com/science/article/pii/S235234092200782X?via%3Dihub)\]
   ```bibtex
 @article{krestenitis2022cofly,
