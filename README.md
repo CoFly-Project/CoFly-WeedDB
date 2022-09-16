@@ -83,10 +83,8 @@ A code snippet titled mask2box.py is provided to convert the segmentation masks 
 If you use this dataset, please cite the following publication:
 
 Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575.
-
-
-## Bibtex
-```
+  \[ \]
+  ```bibtex
 @article{krestenitis2022cofly,
   title={CoFly-WeedDB: A UAV image dataset for weed detection and species identification},
   author={Krestenitis, Marios and Raptis, Emmanuel K and Kapoutsis, Athanasios Ch and Ioannidis, Konstantinos and Kosmatopoulos, Elias B and Vrochidis, Stefanos and Kompatsiaris, Ioannis},
@@ -98,7 +96,8 @@ Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, 
   doi = {https://doi.org/10.1016/j.dib.2022.108575},
   publisher={Elsevier}
 }
-```
+  ```
+
 
 ## Acknowledgment
 This research has been financed by the European Regional Development Fund of the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH - CREATE - INNOVATE (T1EDK-00636).
