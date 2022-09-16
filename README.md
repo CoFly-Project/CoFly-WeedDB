@@ -85,7 +85,19 @@ If you use this dataset, please cite the following publication:
 (Not published yet)
 
 ## Bibtex
-(Not published yet)
+```
+@article{krestenitis2022cofly,
+  title={CoFly-WeedDB: A UAV image dataset for weed detection and species identification},
+  author={Krestenitis, Marios and Raptis, Emmanuel K and Kapoutsis, Athanasios Ch and Ioannidis, Konstantinos and Kosmatopoulos, Elias B and Vrochidis, Stefanos and Kompatsiaris, Ioannis},
+  journal={Data in Brief},
+  volume={45},
+  pages={108575},
+  year={2022},
+  issn = {2352-3409},
+  doi = {https://doi.org/10.1016/j.dib.2022.108575},
+  publisher={Elsevier}
+}
+```
 
 ## Acknowledgment
 This research has been financed by the European Regional Development Fund of the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH - CREATE - INNOVATE (T1EDK-00636).
